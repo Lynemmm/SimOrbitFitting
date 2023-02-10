@@ -1,7 +1,20 @@
 # SimOrbitFitting
-Differential Astrometry: "stellar self-matching" method
+Differential Astrometry: "stellar self-matching" method; pyMultiNest; corner; rebound; Lomb-Scargle
 
-branch main-program: all python program files;
+branch main-program: all python program files; 
+
+DataGenFunc: function file for generate simulated data;
+
+inputsimobs: parameters of exo-planet system or simulated system;
+
+main_simData: main program used to generate the simulated data;
+
+main_8p_1: fitting parameters of one-planet system and plot Lomb-Scargle periodogram of residuals to determine whether there are other periodic signals;
+
+main_15p: fitting parameters of dual-planet system and plot Lomb-Scargle periodogram of residuals to determine whether there are other periodic signals;
+
+main_22p:  fitting parameters of triple-planet system and plot Lomb-Scargle periodogram of residuals to determine whether there are other periodic signals.
+
 
 branch earth-like-planet-result: simulation result of earth-like-planet system which is simulated system with one planet with the mass of 1.3 Mearth;
 
