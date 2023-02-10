@@ -30,4 +30,4 @@ branch GJ832b-c-result: simulation result of GJ832 system which is discovered in
 
 branch triple-planet-result: simulation result of triple-planet system which is simulated system with three planets with the mass of 2.2 Mearth, 7.6 Mearth and 32 Mearth, respectively.
 
-Please contact me if you have any questions. email: yaning_liu@hotmail.com
+Please contact me for any question and problem. Thanks. email: yaning_liu@hotmail.com
