@@ -17,7 +17,6 @@ branch main-program: all python program files;
 
 
 branch earth-like-planet-result: simulation result of earth-like-planet system which is simulated system with one planet with the mass of 1.3 Mearth;
-![Image](https://github.com/Lynemmm/SimOrbitFitting/blob/earth-like-planet-result/Omege_omege_corner_chain0_with_fitted.png)
 
 branch super-earth-planet-result: simulation result of super-earth-planet system which is simulated system with one planet with the mass of 2.2 Mearth;
 
