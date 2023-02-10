@@ -29,3 +29,5 @@ branch dual-planet-result: simulation result of dual-planet system which is simu
 branch GJ832b-c-result: simulation result of GJ832 system which is discovered in 2014 by technique with a super-earth and a jovian planet;
 
 branch triple-planet-result: simulation result of triple-planet system which is simulated system with three planets with the mass of 2.2 Mearth, 7.6 Mearth and 32 Mearth, respectively.
+
+Please contact me if you have any questions. email: yaning_liu@hotmail.com
